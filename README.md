@@ -13,6 +13,8 @@ Apna Kangra is a static website made by using HTML5, CSS3, and Javascript.
 3) About us page
 4) Contact Us Page
 5) Registration Page
+# Demo
+You can view live website demo here :- [Apna Kangra](https://adishisood.github.io/Apna-Kangra/)
 
 # Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed. If you find any issue just put it in the repository issue section.
